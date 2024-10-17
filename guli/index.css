@@ -1,0 +1,17 @@
+.s-main{
+display: flex;
+gap: 120px;
+}
+section{
+    h1{
+   text-align: center;
+    }
+}
+
+.slider{
+    width: 100%;
+}
+
+.bg{
+    width: 100%;
+}
